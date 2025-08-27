@@ -1,0 +1,29 @@
+ :root {
+      --font-inter: "Inter", sans-serif;
+      --font-inter-letter-spacing: -0.02em;
+      --font-inter-letter-spacing-custom: -0.04em;
+    }
+
+body {
+    font-family: var(--font-inter);
+    letter-spacing: var(--font-inter-letter-spacing);
+    margin: 20px;
+}
+
+#timerCanvas {
+    display: none;
+}
+
+
+#timerContainer {
+    flex: auto;
+}
+
+button {
+    font-family: var(--font-inter);
+    letter-spacing: var(--font-inter-letter-spacing);
+}
+
+h1 {
+    letter-spacing: var(--font-inter-letter-spacing-custom);
+}
