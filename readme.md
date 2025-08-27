@@ -4,6 +4,8 @@ Super simple desktop timer/stop watch that utilises the Picture-in-Picture (PiP)
 
 Written in pure HTML/CSS/JS without any frameworks for fast loads... (<14kB)
 
+Check it out here -> https://coolbotic.github.io/PiP-Timer/
+
 ## Supported Browsers
 
 - Chrome
